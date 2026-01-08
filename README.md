@@ -100,6 +100,8 @@ jupyter notebook
 
 🎯 The model successfully predicts customer churn with reliable performance.
 
+![customer_page-0001](https://github.com/user-attachments/assets/d9f214eb-8434-482d-badf-36c4a28a8aea)
+
 
 🔮 Future Work
 
